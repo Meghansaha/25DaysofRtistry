@@ -19,9 +19,73 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 
 ### Day 1
 **Prompt:** *Nature* <br>
-**Code:** [Day1.R](Submissions/2021-12-01/Day 1.R)
+**Code:** [Day 1.R](Submissions/2021-12-01/Day 1.R)
 
 ![](Submissions/2021-12-01/Mountains.PNG)
+
+---
+
+### Day 2
+**Prompt:** *Science* <br>
+**Code:** [Day 2.R](Submissions/2021-12-02/Day 2.R)
+
+![](Submissions/2021-12-02/Mito.PNG)
+
+---
+
+### Day 3
+**Prompt:** *geom_segment()* <br>
+**Code:** [Day 3.R](Submissions/2021-12-03/Day 3.R)
+
+![](Submissions/2021-12-03/Buildings.PNG)
+
+---
+
+### Day 4
+**Prompt:** *"BYOF" - Bring Your Own Functions* <br>
+**Code:** [Day 4.R](Submissions/2021-12-04/Day 4.R)
+
+![](Submissions/2021-12-04/Crossover.PNG)
+
+---
+
+### Day 5
+**Prompt:** *geom_text()* <br>
+**Code:** [Day 5.R](Submissions/2021-12-05/Day 5.R)
+
+![](Submissions/2021-12-05/Pipe Dreams.PNG)
+
+---
+
+### Day 6
+**Prompt:** *Revisit an Old Piece* <br>
+**Code:** [Day 6.R](Submissions/2021-12-06/Day 6.R)
+
+![](Submissions/2021-12-06/Polar City.PNG)
+
+---
+
+### Day 7
+**Prompt:** *Monochrome* <br>
+**Code:** [Day 7.R](Submissions/2021-12-07/Day 7.R)
+
+![](Submissions/2021-12-07/Mono Grid.jfif)
+
+---
+
+### Day 8
+**Prompt:** *geom_point()* <br>
+**Code:** [Day 8.R - BROKEN](Submissions/2021-12-08/Day 8.R)
+
+![](Submissions/2021-12-08/Sunset Bubbles.jfif)
+---
+### Day 9
+**Prompt:** *Iterations* <br>
+**Code:** [Day 9.R - BROKEN](Submissions/2021-12-09/Day 9.R)
+
+![](Submissions/2021-12-09/iter.png)
+
+---
 
 
 

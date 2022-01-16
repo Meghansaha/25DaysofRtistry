@@ -1,4 +1,4 @@
-#====== Day 1 25 Days of Rtistry - Nature======#
+#====== Day 1 of 25 Days of Rtistry - Nature======#
 
 #Library Load-In====
 library(tidyverse)
