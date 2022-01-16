@@ -1,33 +1,26 @@
-README
+25 Days of Rtistry
 ================
 
-## GitHub Documents
+## About
 
-This is an R Markdown format used for publishing markdown documents to
-GitHub. When you click the **Knit** button all R code chunks are run and
-a markdown file (.md) suitable for publishing to GitHub is generated.
+***25 Days of Rtistry*** is a challenge I made for myself to practice
+making Rtistry from December 1st to December 25th. While a list of
+prompts were initially created at the beginning of the challenge, some
+creative liberties and deviations did occur. If there is ever enough
+interest, I will create official prompts and share them publicly in the
+future.
 
-## Including Code
+I realize [Genuary](https://genuary.art) is in January, so some may not
+be interested in having an additional generative art challenge in
+December. We’ll see where plans go, for now, here’s my repository with
+all code featured. May it be a source of learning and/or inspiration for
+you.
 
-You can include R code in the document as follows:
+## 2021 Pieces
 
-``` r
-summary(cars)
-```
+### Day 1
 
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
+**Prompt:** *Nature* <br> **Code:**
+[Day1.R](Submissions/2021-12-01/Day%201.R)
 
-## Including Plots
-
-You can also embed plots, for example:
-
-![](README_files/figure-gfm/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+![](Submissions/2021-12-01/Mountains.PNG)

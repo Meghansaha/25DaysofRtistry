@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "25 Days of Rtistry"
 output: github_document
 ---
 
@@ -7,24 +7,21 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## GitHub Documents
+## About
 
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+***25 Days of Rtistry*** is a challenge I made for myself to practice making Rtistry from December 1st to December 25th. 
+While a list of prompts were initially created at the beginning of the challenge, some creative liberties and deviations did occur.
+If there is ever enough interest, I will create official prompts and share them publicly in the future.
 
-## Including Code
+I realize [Genuary](https://genuary.art) is in January, so some may not be interested in having an additional generative art challenge in December. We'll see where plans go, for now, here's my repository with all code featured. May it be a source of learning and/or inspiration for you.
 
-You can include R code in the document as follows:
+## 2021 Pieces
 
-```{r cars}
-summary(cars)
-```
+### Day 1
+**Prompt:** *Nature* <br>
+**Code:** [Day1.R](Submissions/2021-12-01/Day 1.R)
 
-## Including Plots
+![](Submissions/2021-12-01/Mountains.PNG)
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
