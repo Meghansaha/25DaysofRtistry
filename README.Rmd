@@ -21,14 +21,15 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *Nature* <br>
 **Code:** [Day 1.R](Submissions/2021-12-01/Day 1.R)
 
-<img src="Submissions/2021-12-01/Mountains.PNG">
+[![](Submissions/2021-12-01/Mountains.PNG)](Submissions/2021-12-01/Day 1.R)
+
 ---
 
 ### Day 2
 **Prompt:** *Science* <br>
 **Code:** [Day 2.R](Submissions/2021-12-02/Day 2.R)
 
-<img src="Submissions/2021-12-02/Mito.PNG">
+[![](Submissions/2021-12-02/Mito.PNG)](Submissions/2021-12-02/Day 2.R)
 
 ---
 
@@ -36,7 +37,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *geom_segment()* <br>
 **Code:** [Day 3.R](Submissions/2021-12-03/Day 3.R)
 
-<img src="Submissions/2021-12-03/Buildings.PNG">
+[![](Submissions/2021-12-03/Buildings.PNG)](Submissions/2021-12-03/Day 3.R)
 
 ---
 
@@ -44,7 +45,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *"BYOF" - Bring Your Own Functions* <br>
 **Code:** [Day 4.R](Submissions/2021-12-04/Day 4.R)
 
-<img src="Submissions/2021-12-04/Crossover.PNG">
+[![](Submissions/2021-12-04/Crossover.PNG)](Submissions/2021-12-04/Day 4.R)
 
 ---
 
@@ -52,7 +53,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *geom_text()* <br>
 **Code:** [Day 5.R](Submissions/2021-12-05/Day 5.R)
 
-<img src="Submissions/2021-12-05/Pipe Dreams.PNG">
+[![](Submissions/2021-12-05/Pipe Dreams.PNG)](Submissions/2021-12-05/Day 5.R)
 
 ---
 
@@ -60,7 +61,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *Revisit an Old Piece* <br>
 **Code:** [Day 6.R](Submissions/2021-12-06/Day 6.R)
 
-<img src="Submissions/2021-12-06/Polar City.PNG">
+[![](Submissions/2021-12-06/Polar City.PNG)](Submissions/2021-12-06/Day 6.R)
 
 ---
 
@@ -68,21 +69,22 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *Monochrome* <br>
 **Code:** [Day 7.R](Submissions/2021-12-07/Day 7.R)
 
-<img src="Submissions/2021-12-07/Mono Grid.jfif">
+[![](Submissions/2021-12-07/Mono Grid.jfif)](Submissions/2021-12-07/Day 7.R)
+
 ---
 
 ### Day 8
 **Prompt:** *geom_point()* <br>
 **Code:** [Day 8.R](Submissions/2021-12-08/Day 8.R)
 
-<img src="Submissions/2021-12-08/Sunset Bubbles.jfif">
+[![](Submissions/2021-12-08/Sunset Bubbles.jfif)](Submissions/2021-12-08/Day 8.R)
 ---
 
 ### Day 9
 **Prompt:** *Iterations* <br>
 **Code:** [Day 9.R](Submissions/2021-12-09/Day 9.R)
 
-<img src="Submissions/2021-12-09/iter.png">
+[![](Submissions/2021-12-09/iter.png)](Submissions/2021-12-09/Day 9.R)
 
 ---
 
@@ -90,7 +92,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *Rainbow* <br>
 **Code:** [Day 10.R](Submissions/2021-12-10/Day 10.R)
 
-<img src="Submissions/2021-12-10/Rainbow.png">
+[![](Submissions/2021-12-10/Rainbow.png)](Submissions/2021-12-10/Day 10.R)
 
 ---
 
@@ -98,14 +100,15 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *geom_line()* <br>
 **Code:** [Day 11.R](Submissions/2021-12-11/Day 11.R)
 
-<img src="Submissions/2021-12-11/Colorwheel.png">
+[![](Submissions/2021-12-11/Colorwheel.png)](Submissions/2021-12-11/Day 11.R)
+
 ---
 
 ### Day 12
 **Prompt:** *Circles* <br>
 **Code:** [Day 12.R](Submissions/2021-12-12/Day 12.R)
 
-<img src="Submissions/2021-12-12/Fuzzy Circles.png">
+[![](Submissions/2021-12-12/Fuzzy Circles.png)](Submissions/2021-12-12/Day 12.R)
 
 ---
 
@@ -113,7 +116,8 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Prompt:** *Squares* <br>
 **Code:** *Unavailable - Throwaway - Code wasn't saved* 🤦🏾
 
-<img src="Submissions/2021-12-13/square.png">
+[![](Submissions/2021-12-13/square.png)](Submissions/2021-12-13/square.png)
+
 ---
 
 ### Day 14
@@ -121,7 +125,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 14.R](Submissions/2021-12-14/Day 14.R)
 
 <center>
-<img src="Submissions/2021-12-14/Spice Pops.png">
+[![](Submissions/2021-12-14/Spice Pops.png)](Submissions/2021-12-14/Spice Pops.png)
 
 </center>
 
@@ -130,14 +134,14 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 ### Day 15
 **Prompt:** *Make a Splash* <br>
 **Code:** [Day 15.R](Submissions/2021-12-15/Day 15.R)
-<img src="Submissions/2021-12-15/iter color.png">
+[![](Submissions/2021-12-15/iter color.png)](Submissions/2021-12-15/iter color.png)
 
 ---
 
 ### Day 16
 **Prompt:** *Air* <br>
 **Code:** [Day 16.R](Submissions/2021-12-16/Day 16.R)
-<img src="Submissions/2021-12-16/Air.png">
+[![](Submissions/2021-12-16/Air.png)](Submissions/2021-12-16/Air.png)
 
 ---
 
@@ -151,53 +155,53 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 ### Day 18
 **Prompt:** *Around the House* <br>
 **Code:** *Unavailable - Throwaway - Code wasn't saved* 🤦🏾
-<img src="Submissions/2021-12-18/tile bubbles.png">
+[![](Submissions/2021-12-18/tile bubbles.png)](Submissions/2021-12-18/tile bubbles.png)
 
 ---
 
 ### Day 19
 **Prompt:** *No Color* <br>
 **Code:** [Day 19.R](Submissions/2021-12-19/Day 19.R)
-<img src="Submissions/2021-12-19/desert.png">
+[![](Submissions/2021-12-19/desert.png)](Submissions/2021-12-19/desert.png)
 
 ---
 
 ### Day 20
 **Prompt:** *Texture* <br>
 **Code:** [Day 20.R](Submissions/2021-12-20/Day 20.R)
-<img src="Submissions/2021-12-20/planet.png">
+[![](Submissions/2021-12-20/planet.png)](Submissions/2021-12-20/planet.png)
 
 ---
 
 ### Day 21
 **Prompt:** *3D* <br>
 **Code:** [Day 21.R](Submissions/2021-12-21/Day 21.R)
-<img src="Submissions/2021-12-21/3d.png">
+[![](Submissions/2021-12-21/3d.png)](Submissions/2021-12-21/3d.png)
 
 ---
 
 ### Day 22
 **Prompt:** *Suprematism* <br>
 **Code:** [Day 22.R](Submissions/2021-12-22/Day 22.R)
-<img src="Submissions/2021-12-22/spiral.png">
+[![](Submissions/2021-12-22/spiral.png)](Submissions/2021-12-22/spiral.png)
 
 ---
 
 ### Day 23
 **Prompt:** *Trees* <br>
 **Code:** [Day 23.R](Submissions/2021-12-23/Day 23.R)
-<img src="Submissions/2021-12-23/christmas tree.png">
+[![](Submissions/2021-12-23/christmas tree.png)](Submissions/2021-12-23/christmas tree.png)
 
 ---
 
 ### Day 24
 **Prompt:** *Transformations* <br>
 **Code:** [Day 24.R](Submissions/2021-12-24/Day 24.R)
-<img src="Submissions/2021-12-24/dots polar.png">
+[![](Submissions/2021-12-24/dots polar.png)](Submissions/2021-12-24/dots polar.png)
 
 ---
 
 ### Day 25
 **Prompt:** *Festive or Winter* <br>
 **Code:** [Day 25.R](Submissions/2021-12-25/Day 25.R)
-<img src="Submissions/2021-12-25/grinch.png">
+[![](Submissions/2021-12-25/grinch.png)](Submissions/2021-12-25/grinch.png)
