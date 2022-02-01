@@ -143,6 +143,7 @@ wasn’t saved* 🤦🏾
 
 **Prompt:** *Make a Splash* <br> **Code:** [Day
 15.R](Submissions/2021-12-15/Day%2015.R)
+
 <img src="Submissions/2021-12-15/iter color.png">
 
 ------------------------------------------------------------------------
@@ -151,6 +152,7 @@ wasn’t saved* 🤦🏾
 
 **Prompt:** *Air* <br> **Code:** [Day
 16.R](Submissions/2021-12-16/Day%2016.R)
+
 <img src="Submissions/2021-12-16/Air.png">
 
 ------------------------------------------------------------------------
@@ -159,7 +161,8 @@ wasn’t saved* 🤦🏾
 
 **Prompt:** *Bubbles* <br> **Code:** [Day
 17.R](Submissions/2021-12-17/Day%2017.R)
-[![](Submissions/2021-12-17/bubbles.png)](Submissions/2021-12-17/bubbles.png)
+
+<img src="Submissions/2021-12-17/bubbles.png">
 
 ------------------------------------------------------------------------
 
@@ -167,6 +170,7 @@ wasn’t saved* 🤦🏾
 
 **Prompt:** *Around the House* <br> **Code:** *Unavailable - Throwaway -
 Code wasn’t saved* 🤦🏾
+
 <img src="Submissions/2021-12-18/tile bubbles.png">
 
 ------------------------------------------------------------------------
@@ -175,6 +179,7 @@ Code wasn’t saved* 🤦🏾
 
 **Prompt:** *No Color* <br> **Code:** [Day
 19.R](Submissions/2021-12-19/Day%2019.R)
+
 <img src="Submissions/2021-12-19/desert.png">
 
 ------------------------------------------------------------------------
@@ -183,6 +188,7 @@ Code wasn’t saved* 🤦🏾
 
 **Prompt:** *Texture* <br> **Code:** [Day
 20.R](Submissions/2021-12-20/Day%2020.R)
+
 <img src="Submissions/2021-12-20/planet.png">
 
 ------------------------------------------------------------------------
@@ -191,6 +197,7 @@ Code wasn’t saved* 🤦🏾
 
 **Prompt:** *3D* <br> **Code:** [Day
 21.R](Submissions/2021-12-21/Day%2021.R)
+
 <img src="Submissions/2021-12-21/3d.png">
 
 ------------------------------------------------------------------------
@@ -199,6 +206,7 @@ Code wasn’t saved* 🤦🏾
 
 **Prompt:** *Suprematism* <br> **Code:** [Day
 22.R](Submissions/2021-12-22/Day%2022.R)
+
 <img src="Submissions/2021-12-22/spiral.png">
 
 ------------------------------------------------------------------------
@@ -207,6 +215,7 @@ Code wasn’t saved* 🤦🏾
 
 **Prompt:** *Trees* <br> **Code:** [Day
 23.R](Submissions/2021-12-23/Day%2023.R)
+
 <img src="Submissions/2021-12-23/christmas tree.png">
 
 ------------------------------------------------------------------------
@@ -215,6 +224,7 @@ Code wasn’t saved* 🤦🏾
 
 **Prompt:** *Transformations* <br> **Code:** [Day
 24.R](Submissions/2021-12-24/Day%2024.R)
+
 <img src="Submissions/2021-12-24/dots polar.png">
 
 ------------------------------------------------------------------------
@@ -223,4 +233,5 @@ Code wasn’t saved* 🤦🏾
 
 **Prompt:** *Festive or Winter* <br> **Code:** [Day
 25.R](Submissions/2021-12-25/Day%2025.R)
+
 <img src="Submissions/2021-12-25/grinch.png">
