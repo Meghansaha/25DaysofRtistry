@@ -41,7 +41,7 @@ you.
 **Prompt:** *geom\_segment()* <br> **Code:** [Day
 3.R](Submissions/2021-12-03/Day%203.R)
 
-![](Submissions/2021-12-03/Buildings.PNG)
+[](Submissions/2021-12-03/Buildings.PNG)
 
 ------------------------------------------------------------------------
 
@@ -83,16 +83,151 @@ you.
 
 ### Day 8
 
-**Prompt:** *geom\_point()* <br> **Code:** [Day 8.R -
-BROKEN](Submissions/2021-12-08/Day%208.R)
+**Prompt:** *geom\_point()* <br> **Code:** [Day
+8.R](Submissions/2021-12-08/Day%208.R)
 
 ## ![](Submissions/2021-12-08/Sunset%20Bubbles.jfif)
 
 ### Day 9
 
-**Prompt:** *Iterations* <br> **Code:** [Day 9.R -
-BROKEN](Submissions/2021-12-09/Day%209.R)
+**Prompt:** *Iterations* <br> **Code:** [Day
+9.R](Submissions/2021-12-09/Day%209.R)
 
 ![](Submissions/2021-12-09/iter.png)
 
 ------------------------------------------------------------------------
+
+### Day 10
+
+**Prompt:** *Rainbow* <br> **Code:** [Day
+10.R](Submissions/2021-12-10/Day%2010.R)
+
+![](Submissions/2021-12-10/Rainbow.png)
+
+------------------------------------------------------------------------
+
+### Day 11
+
+**Prompt:** *geom\_line()* <br> **Code:** [Day
+11.R](Submissions/2021-12-11/Day%2011.R)
+
+![](Submissions/2021-12-11/Colorwheel.png)
+
+------------------------------------------------------------------------
+
+### Day 12
+
+**Prompt:** *Circles* <br> **Code:** [Day
+12.R](Submissions/2021-12-12/Day%2012.R)
+
+![](Submissions/2021-12-12/Fuzzy%20Circles.png)
+
+------------------------------------------------------------------------
+
+### Day 13
+
+**Prompt:** *Squares* <br> **Code:** *Unavailable - Throwaway - Code
+wasn’t saved* 🤦🏾
+
+![](Submissions/2021-12-13/square.png)\]
+
+------------------------------------------------------------------------
+
+### Day 14
+
+**Prompt:** *Borrow Some
+[TidyTuesday](https://github.com/rfordatascience/tidytuesday) Data* <br>
+**Code:** [Day 14.R](Submissions/2021-12-14/Day%2014.R)
+
+<center>
+
+![](Submissions/2021-12-14/Spice%20Pops.png)
+
+</center>
+
+------------------------------------------------------------------------
+
+### Day 15
+
+**Prompt:** *Make a Splash* <br> **Code:** [Day
+15.R](Submissions/2021-12-15/Day%2015.R)
+![](Submissions/2021-12-15/iter%20color.png)
+
+------------------------------------------------------------------------
+
+### Day 16
+
+**Prompt:** *Air* <br> **Code:** [Day
+16.R](Submissions/2021-12-16/Day%2016.R)
+![](Submissions/2021-12-16/Air.png)
+
+------------------------------------------------------------------------
+
+### Day 17
+
+**Prompt:** *Bubbles* <br> **Code:** [Day
+17.R](Submissions/2021-12-17/Day%2017.R)
+![](Submissions/2021-12-17/bubbles.png)
+
+------------------------------------------------------------------------
+
+### Day 18
+
+**Prompt:** *Around the House* <br> **Code:** *Unavailable - Throwaway -
+Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
+
+------------------------------------------------------------------------
+
+### Day 19
+
+**Prompt:** *No Color* <br> **Code:** [Day
+19.R](Submissions/2021-12-19/Day%2019.R)
+![](Submissions/2021-12-19/desert.png)
+
+------------------------------------------------------------------------
+
+### Day 20
+
+**Prompt:** *Texture* <br> **Code:** [Day
+20.R](Submissions/2021-12-20/Day%2020.R)
+![](Submissions/2021-12-20/planet.png)
+
+------------------------------------------------------------------------
+
+### Day 21
+
+**Prompt:** *3D* <br> **Code:** [Day
+21.R](Submissions/2021-12-21/Day%2021.R)
+![](Submissions/2021-12-21/3d.png)
+
+------------------------------------------------------------------------
+
+### Day 22
+
+**Prompt:** *Suprematism* <br> **Code:** [Day
+22.R](Submissions/2021-12-22/Day%2022.R)
+![](Submissions/2021-12-22/spiral.png)
+
+------------------------------------------------------------------------
+
+### Day 23
+
+**Prompt:** *Trees* <br> **Code:** [Day
+23.R](Submissions/2021-12-23/Day%2023.R)
+![](Submissions/2021-12-23/christmas%20tree.png)
+
+------------------------------------------------------------------------
+
+### Day 24
+
+**Prompt:** *Transformations* <br> **Code:** [Day
+24.R](Submissions/2021-12-24/Day%2024.R)
+![](Submissions/2021-12-24/dots%20polar.png)
+
+------------------------------------------------------------------------
+
+### Day 25
+
+**Prompt:** *Festive or Winter* <br> **Code:** [Day
+25.R](Submissions/2021-12-25/Day%2025.R)
+![](Submissions/2021-12-25/grinch.png)
