@@ -62,7 +62,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 5.R](Submissions/2021-12-05/Day 5.R)
 
 
-<img src="Submissions/2021-12-05/Pipe Dreams.PNG">
+<img src="Submissions/2021-12-05/Pipe_Dreams.PNG">
 
 
 ---
@@ -72,7 +72,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 6.R](Submissions/2021-12-06/Day 6.R)
 
 
-<img src="Submissions/2021-12-06/Polar City.PNG">
+<img src="Submissions/2021-12-06/Polar_City.PNG">
 
 
 ---
@@ -82,7 +82,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 7.R](Submissions/2021-12-07/Day 7.R)
 
 
-<img src="Submissions/2021-12-07/Mono Grid.jfif">
+<img src="Submissions/2021-12-07/Mono_Grid.jfif">
 
 
 ---
@@ -92,7 +92,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 8.R](Submissions/2021-12-08/Day 8.R)
 
 
-<img src="Submissions/2021-12-08/Sunset Bubbles.jfif">
+<img src="Submissions/2021-12-08/Sunset_Bubbles.jfif">
 
 
 ---
@@ -112,7 +112,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 10.R](Submissions/2021-12-10/Day 10.R)
 
 
-<img src="Submissions/2021-12-10/rainbow image.png">
+<img src="Submissions/2021-12-10/rainbow_image.png">
 
 
 ---
@@ -122,7 +122,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 11.R](Submissions/2021-12-11/Day 11.R)
 
 
-<img src="Submissions/2021-12-11/Colorwheel img.png">
+<img src="Submissions/2021-12-11/Colorwheel_img.png">
 
 
 ---
@@ -132,7 +132,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 12.R](Submissions/2021-12-12/Day 12.R)
 
 
-<img src="Submissions/2021-12-12/Fuzzy Circles img.png">
+<img src="Submissions/2021-12-12/Fuzzy_Circles_img.png">
 
 
 ---
@@ -142,7 +142,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** *Unavailable - Throwaway - Code wasn't saved* 🤦🏾
 
 
-<img src="Submissions/2021-12-13/square img.png">
+<img src="Submissions/2021-12-13/square_img.png">
 
 
 ---
@@ -153,7 +153,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 
 <center>
 
-<img src="Submissions/2021-12-14/Spice Pops.png">
+<img src="Submissions/2021-12-14/Spice_Pops.png">
 
 
 </center>
@@ -165,7 +165,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 15.R](Submissions/2021-12-15/Day 15.R)
 
 
-<img src="Submissions/2021-12-15/iter color.png">
+<img src="Submissions/2021-12-15/iter_color.png">
 
 
 ---
@@ -185,7 +185,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 17.R](Submissions/2021-12-17/Day 17.R)
 
 
-<img src="Submissions/2021-12-17/bubbles img.png">
+<img src="Submissions/2021-12-17/bubbles_img.png">
 
 
 ---
@@ -195,7 +195,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** *Unavailable - Throwaway - Code wasn't saved* 🤦🏾
 
 
-<img src="Submissions/2021-12-18/tile bubbles.png">
+<img src="Submissions/2021-12-18/tile_bubbles.png">
 
 
 ---
@@ -205,7 +205,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 19.R](Submissions/2021-12-19/Day 19.R)
 
 
-<img src="Submissions/2021-12-19/desert img.png">
+<img src="Submissions/2021-12-19/desert_img.png">
 
 
 ---
@@ -215,7 +215,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 20.R](Submissions/2021-12-20/Day 20.R)
 
 
-<img src="Submissions/2021-12-20/planet img.png">
+<img src="Submissions/2021-12-20/planet_img.png">
 
 
 ---
@@ -225,7 +225,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 21.R](Submissions/2021-12-21/Day 21.R)
 
 
-<img src="Submissions/2021-12-21/3d img.png">
+<img src="Submissions/2021-12-21/3d_img.png">
 
 
 ---
@@ -235,7 +235,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 22.R](Submissions/2021-12-22/Day 22.R)
 
 
-<img src="Submissions/2021-12-22/spiral img.png">
+<img src="Submissions/2021-12-22/spiral_img.png">
 
 
 ---
@@ -245,7 +245,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 23.R](Submissions/2021-12-23/Day 23.R)
 
 
-<img src="Submissions/2021-12-23/christmas tree img.png">
+<img src="Submissions/2021-12-23/christmas_tree_img.png">
 
 
 ---
@@ -255,7 +255,7 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 24.R](Submissions/2021-12-24/Day 24.R)
 
 
-<img src="Submissions/2021-12-24/dots polar img.png">
+<img src="Submissions/2021-12-24/dots_polar_img.png">
 
 
 ---
@@ -265,4 +265,4 @@ I realize [Genuary](https://genuary.art) is in January, so some may not be inter
 **Code:** [Day 25.R](Submissions/2021-12-25/Day 25.R)
 
 
-<img src="Submissions/2021-12-25/grinch img.png">
+<img src="Submissions/2021-12-25/grinch_img.png">
