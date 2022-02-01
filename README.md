@@ -23,16 +23,14 @@ you.
 **Prompt:** *Nature* <br> **Code:** [Day
 1.R](Submissions/2021-12-01/Day%201.R)
 
-![](Submissions/2021-12-01/Mountains.PNG)
-
-------------------------------------------------------------------------
+## <img src="Submissions/2021-12-01/Mountains.PNG">
 
 ### Day 2
 
 **Prompt:** *Science* <br> **Code:** [Day
 2.R](Submissions/2021-12-02/Day%202.R)
 
-![](Submissions/2021-12-02/Mito.PNG)
+<img src="Submissions/2021-12-02/Mito.PNG">
 
 ------------------------------------------------------------------------
 
@@ -41,7 +39,7 @@ you.
 **Prompt:** *geom\_segment()* <br> **Code:** [Day
 3.R](Submissions/2021-12-03/Day%203.R)
 
-[](Submissions/2021-12-03/Buildings.PNG)
+<img src="Submissions/2021-12-03/Buildings.PNG">
 
 ------------------------------------------------------------------------
 
@@ -50,7 +48,7 @@ you.
 **Prompt:** *“BYOF” - Bring Your Own Functions* <br> **Code:** [Day
 4.R](Submissions/2021-12-04/Day%204.R)
 
-![](Submissions/2021-12-04/Crossover.PNG)
+<img src="Submissions/2021-12-04/Crossover.PNG">
 
 ------------------------------------------------------------------------
 
@@ -59,7 +57,7 @@ you.
 **Prompt:** *geom\_text()* <br> **Code:** [Day
 5.R](Submissions/2021-12-05/Day%205.R)
 
-![](Submissions/2021-12-05/Pipe%20Dreams.PNG)
+<img src="Submissions/2021-12-05/Pipe Dreams.PNG">
 
 ------------------------------------------------------------------------
 
@@ -68,7 +66,7 @@ you.
 **Prompt:** *Revisit an Old Piece* <br> **Code:** [Day
 6.R](Submissions/2021-12-06/Day%206.R)
 
-![](Submissions/2021-12-06/Polar%20City.PNG)
+<img src="Submissions/2021-12-06/Polar City.PNG">
 
 ------------------------------------------------------------------------
 
@@ -77,23 +75,21 @@ you.
 **Prompt:** *Monochrome* <br> **Code:** [Day
 7.R](Submissions/2021-12-07/Day%207.R)
 
-![](Submissions/2021-12-07/Mono%20Grid.jfif)
-
-------------------------------------------------------------------------
+## <img src="Submissions/2021-12-07/Mono Grid.jfif">
 
 ### Day 8
 
 **Prompt:** *geom\_point()* <br> **Code:** [Day
 8.R](Submissions/2021-12-08/Day%208.R)
 
-## ![](Submissions/2021-12-08/Sunset%20Bubbles.jfif)
+## <img src="Submissions/2021-12-08/Sunset Bubbles.jfif">
 
 ### Day 9
 
 **Prompt:** *Iterations* <br> **Code:** [Day
 9.R](Submissions/2021-12-09/Day%209.R)
 
-![](Submissions/2021-12-09/iter.png)
+<img src="Submissions/2021-12-09/iter.png">
 
 ------------------------------------------------------------------------
 
@@ -102,7 +98,7 @@ you.
 **Prompt:** *Rainbow* <br> **Code:** [Day
 10.R](Submissions/2021-12-10/Day%2010.R)
 
-![](Submissions/2021-12-10/Rainbow.png)
+<img src="Submissions/2021-12-10/Rainbow.png">
 
 ------------------------------------------------------------------------
 
@@ -111,16 +107,14 @@ you.
 **Prompt:** *geom\_line()* <br> **Code:** [Day
 11.R](Submissions/2021-12-11/Day%2011.R)
 
-![](Submissions/2021-12-11/Colorwheel.png)
-
-------------------------------------------------------------------------
+## <img src="Submissions/2021-12-11/Colorwheel.png">
 
 ### Day 12
 
 **Prompt:** *Circles* <br> **Code:** [Day
 12.R](Submissions/2021-12-12/Day%2012.R)
 
-![](Submissions/2021-12-12/Fuzzy%20Circles.png)
+<img src="Submissions/2021-12-12/Fuzzy Circles.png">
 
 ------------------------------------------------------------------------
 
@@ -129,9 +123,7 @@ you.
 **Prompt:** *Squares* <br> **Code:** *Unavailable - Throwaway - Code
 wasn’t saved* 🤦🏾
 
-![](Submissions/2021-12-13/square.png)\]
-
-------------------------------------------------------------------------
+## <img src="Submissions/2021-12-13/square.png">
 
 ### Day 14
 
@@ -141,7 +133,7 @@ wasn’t saved* 🤦🏾
 
 <center>
 
-![](Submissions/2021-12-14/Spice%20Pops.png)
+<img src="Submissions/2021-12-14/Spice Pops.png">
 
 </center>
 
@@ -151,7 +143,7 @@ wasn’t saved* 🤦🏾
 
 **Prompt:** *Make a Splash* <br> **Code:** [Day
 15.R](Submissions/2021-12-15/Day%2015.R)
-![](Submissions/2021-12-15/iter%20color.png)
+<img src="Submissions/2021-12-15/iter color.png">
 
 ------------------------------------------------------------------------
 
@@ -159,7 +151,7 @@ wasn’t saved* 🤦🏾
 
 **Prompt:** *Air* <br> **Code:** [Day
 16.R](Submissions/2021-12-16/Day%2016.R)
-![](Submissions/2021-12-16/Air.png)
+<img src="Submissions/2021-12-16/Air.png">
 
 ------------------------------------------------------------------------
 
@@ -167,14 +159,15 @@ wasn’t saved* 🤦🏾
 
 **Prompt:** *Bubbles* <br> **Code:** [Day
 17.R](Submissions/2021-12-17/Day%2017.R)
-![](Submissions/2021-12-17/bubbles.png)
+[![](Submissions/2021-12-17/bubbles.png)](Submissions/2021-12-17/bubbles.png)
 
 ------------------------------------------------------------------------
 
 ### Day 18
 
 **Prompt:** *Around the House* <br> **Code:** *Unavailable - Throwaway -
-Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
+Code wasn’t saved* 🤦🏾
+<img src="Submissions/2021-12-18/tile bubbles.png">
 
 ------------------------------------------------------------------------
 
@@ -182,7 +175,7 @@ Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
 
 **Prompt:** *No Color* <br> **Code:** [Day
 19.R](Submissions/2021-12-19/Day%2019.R)
-![](Submissions/2021-12-19/desert.png)
+<img src="Submissions/2021-12-19/desert.png">
 
 ------------------------------------------------------------------------
 
@@ -190,7 +183,7 @@ Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
 
 **Prompt:** *Texture* <br> **Code:** [Day
 20.R](Submissions/2021-12-20/Day%2020.R)
-![](Submissions/2021-12-20/planet.png)
+<img src="Submissions/2021-12-20/planet.png">
 
 ------------------------------------------------------------------------
 
@@ -198,7 +191,7 @@ Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
 
 **Prompt:** *3D* <br> **Code:** [Day
 21.R](Submissions/2021-12-21/Day%2021.R)
-![](Submissions/2021-12-21/3d.png)
+<img src="Submissions/2021-12-21/3d.png">
 
 ------------------------------------------------------------------------
 
@@ -206,7 +199,7 @@ Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
 
 **Prompt:** *Suprematism* <br> **Code:** [Day
 22.R](Submissions/2021-12-22/Day%2022.R)
-![](Submissions/2021-12-22/spiral.png)
+<img src="Submissions/2021-12-22/spiral.png">
 
 ------------------------------------------------------------------------
 
@@ -214,7 +207,7 @@ Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
 
 **Prompt:** *Trees* <br> **Code:** [Day
 23.R](Submissions/2021-12-23/Day%2023.R)
-![](Submissions/2021-12-23/christmas%20tree.png)
+<img src="Submissions/2021-12-23/christmas tree.png">
 
 ------------------------------------------------------------------------
 
@@ -222,7 +215,7 @@ Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
 
 **Prompt:** *Transformations* <br> **Code:** [Day
 24.R](Submissions/2021-12-24/Day%2024.R)
-![](Submissions/2021-12-24/dots%20polar.png)
+<img src="Submissions/2021-12-24/dots polar.png">
 
 ------------------------------------------------------------------------
 
@@ -230,4 +223,4 @@ Code wasn’t saved* 🤦🏾 ![](Submissions/2021-12-18/tile%20bubbles.png)
 
 **Prompt:** *Festive or Winter* <br> **Code:** [Day
 25.R](Submissions/2021-12-25/Day%2025.R)
-![](Submissions/2021-12-25/grinch.png)
+<img src="Submissions/2021-12-25/grinch.png">
